@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Bug Report
+about: Something is not working as intended.
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
@@ -25,6 +25,3 @@ If applicable, add screenshots to help explain your problem.
 
 **System Specs:**
  - OS: [e.g. iOS]
-
-**Additional context**
-Add any other context about the problem here.
