@@ -30,7 +30,7 @@ body:
   id: terms
   attributes:
     label: Verify
-    description: Before submitting, have you read through the [Frequently Asked Questions](https://combatcatstudio.github.io/WildAssaultHelp) and [Open Issues](https://github.com/CombatCatStudio/WildAssaultHelp/issues) to be sure you are not posting a duplicate issue?
+    description: Before submitting, have you searched through the [Frequently Asked Questions](https://combatcatstudio.github.io/WildAssaultHelp) and [Previous Issues](https://github.com/CombatCatStudio/WildAssaultHelp/issues) to be sure you are not posting a duplicate issue?
     options:
-      - label: Yes, I have read through the FAQ and Open Issues.
+      - label: Yes, I have read through the FAQ and Existing Issues.
         required: true
