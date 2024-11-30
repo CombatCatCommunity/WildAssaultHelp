@@ -1,13 +1,15 @@
 name: Localization Issue
 description: A word or phrase is not translated properly ingame
 labels: localization
+assignees:
+- shawnkurt
 body:
 - type: input
   id: contact
   attributes:
     label: Player Id
     description: Your ingame user id or steam profile id
-    placeholder: "ex. 100238 / https://steamcommunity.com/id/{THIS PART}/"
+    placeholder: "ex. 100238 or https://steamcommunity.com/id/{THIS PART}/"
   validations:
     required: true
 - type: input
