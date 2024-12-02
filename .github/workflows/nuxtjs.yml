@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - run: corepack enable
       - uses: actions/setup-node@v4
-      # Pick your own package manager and build script
+      - run: cd ./src
       - run: npm install
       - run: npx nuxt build --preset github_pages
       - name: Upload artifact
