@@ -1,0 +1,27 @@
+{
+    "title": "Wild Assault FAQ",
+    "description": "A collection of frequently asked questions maintained by the community.",
+    "faq":[
+        {
+            "id": "game-suggestions",
+            "label": "What do I do if I have suggestions for things that could be added or changed about the game?",
+            "content": "Some very long answer **supporting markdown**"
+        },{
+            "id": "bug-glitch-report",
+            "label": "I found a bug/glitch, where do I report it?",
+            "content": "Some very long answer **supporting markdown**"
+        },{
+            "id": "hack-report",
+            "label": "Someone was hacking in my game, where can I report them?",
+            "content": "Some very long answer **supporting markdown**"
+        },{
+            "id": "consoles-controllers",
+            "label": "When will this game come to consoles and support controllers?",
+            "content": "Some very long answer **supporting markdown**"
+        },{
+            "id": "basic-troubleshooting",
+            "label": "The game won't launch on my PC what do I do?",
+            "content": "# Header 1\n### Header 3\n**Bold** *italic*"
+        }
+    ]
+}

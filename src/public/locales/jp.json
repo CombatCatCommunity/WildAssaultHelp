@@ -1,0 +1,32 @@
+{
+    "title": "Wild Assault FAQ",
+    "description": "コミュニティによって管理されているよくある質問のコレクション。",
+    "faq":[
+        {
+            "id": "game-suggestions",
+            "tags": ["game", "ideas"],
+            "question": "I have suggestions for things that could be added or changed about the game?",
+            "answer": "Some very long answer **supporting markdown**"
+        },{
+            "id": "bug-glitch-report",
+            "tags": ["game"],
+            "question": "I found a bug/glitch, where do I report it?",
+            "answer": "Some very long answer **supporting markdown**"
+        },{
+            "id": "hack-report",
+            "tags": ["game"],
+            "question": "Someone was hacking in my game, where can I report them?",
+            "answer": "Some very long answer **supporting markdown**"
+        },{
+            "id": "consoles-controllers",
+            "tags": ["game"],
+            "question": "When will this game come to consoles and support controllers?",
+            "answer": "Some very long answer **supporting markdown**"
+        },{
+            "id": "basic-troubleshooting",
+            "tags": ["game", "error", "fix"],
+            "question": "The game won't launch on my PC what do I do?",
+            "answer": "Some very long answer **supporting markdown**"
+        }
+    ]
+}
